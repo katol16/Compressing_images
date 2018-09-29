@@ -1,0 +1,15 @@
+{
+  "name": "compressingimages",
+  "version": "1.0.0",
+  "description": "Compressing images with node.js",
+  "main": "compress.js",
+  "dependencies": {},
+  "devDependencies": {
+    "compress-images": "^1.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Karol Vogelgezang",
+  "license": "ISC"
+}
